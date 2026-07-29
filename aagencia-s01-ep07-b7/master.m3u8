@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=3793269,RESOLUTION=1920x1080
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled19@job-aagencia-s01-ep07-b7/aagencia-s01-ep07-b7/hls/index.m3u8
